@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "apiexpress",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "nodeapi",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
